@@ -1,7 +1,7 @@
 # s-challenge
 Solution for Challenge
 
-The repository contains:
+**The repository contains:**
 
 1. binary zip with executeble jar and lib directory.
 
@@ -9,7 +9,8 @@ The repository contains:
 
 3. Wiki with the solution overview.
 
-To execute the program:
+
+**To execute the program:**
 
 1. unzip the binary .zip OR install the maven to generate the zip.
 
