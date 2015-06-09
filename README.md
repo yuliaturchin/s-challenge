@@ -19,3 +19,5 @@ Solution for Challenge
 java -jar [jar] [products_file_path] [listings_file_path] [results_file_path]
 
 The results will be generated to the [results_file_path]
+
+The program was checked on Windows and Linux.
